@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cocktail-menu/static/css/main.55a24fba.css",
+    "main.js": "/cocktail-menu/static/js/main.d369f7eb.js",
+    "static/js/453.4f954814.chunk.js": "/cocktail-menu/static/js/453.4f954814.chunk.js",
+    "static/media/penicillin.webp": "/cocktail-menu/static/media/penicillin.c1dbdbb3a3d7232f3eb9.webp",
+    "static/media/lastWord.webp": "/cocktail-menu/static/media/lastWord.c640dd5d35a4cdb2190d.webp",
+    "static/media/manhattan.webp": "/cocktail-menu/static/media/manhattan.edccc346bdee464bdadb.webp",
+    "static/media/daiquiri.webp": "/cocktail-menu/static/media/daiquiri.812a52972e23326a99b1.webp",
+    "static/media/rustyNail.webp": "/cocktail-menu/static/media/rustyNail.fbd69da2ab61192bc262.webp",
+    "static/media/bourbonRenewal.webp": "/cocktail-menu/static/media/bourbonRenewal.7f9ddf07a286dcb5f978.webp",
+    "static/media/amarettoSour.webp": "/cocktail-menu/static/media/amarettoSour.ab884a379e802874848e.webp",
+    "static/media/newYorkSour.webp": "/cocktail-menu/static/media/newYorkSour.db802a4ebb4ac535bd46.webp",
+    "static/media/oldFashioned.webp": "/cocktail-menu/static/media/oldFashioned.901dbdc6a1ccaab05a56.webp",
+    "static/media/laLouisiane.webp": "/cocktail-menu/static/media/laLouisiane.a2c87fa8230824a88839.webp",
+    "index.html": "/cocktail-menu/index.html",
+    "main.55a24fba.css.map": "/cocktail-menu/static/css/main.55a24fba.css.map",
+    "main.d369f7eb.js.map": "/cocktail-menu/static/js/main.d369f7eb.js.map",
+    "453.4f954814.chunk.js.map": "/cocktail-menu/static/js/453.4f954814.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55a24fba.css",
+    "static/js/main.d369f7eb.js"
+  ]
+}
