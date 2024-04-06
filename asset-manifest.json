@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cocktail-menu/static/css/main.55a24fba.css",
+    "main.js": "/cocktail-menu/static/js/main.d93dd9cb.js",
+    "static/js/453.4f954814.chunk.js": "/cocktail-menu/static/js/453.4f954814.chunk.js",
+    "static/media/penicillin.webp": "/cocktail-menu/static/media/penicillin.c1dbdbb3a3d7232f3eb9.webp",
+    "static/media/lastWord.webp": "/cocktail-menu/static/media/lastWord.c640dd5d35a4cdb2190d.webp",
+    "static/media/daiquiri.webp": "/cocktail-menu/static/media/daiquiri.812a52972e23326a99b1.webp",
+    "static/media/oldFashioned.webp": "/cocktail-menu/static/media/oldFashioned.901dbdc6a1ccaab05a56.webp",
+    "index.html": "/cocktail-menu/index.html",
+    "main.55a24fba.css.map": "/cocktail-menu/static/css/main.55a24fba.css.map",
+    "main.d93dd9cb.js.map": "/cocktail-menu/static/js/main.d93dd9cb.js.map",
+    "453.4f954814.chunk.js.map": "/cocktail-menu/static/js/453.4f954814.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55a24fba.css",
+    "static/js/main.d93dd9cb.js"
+  ]
+}
